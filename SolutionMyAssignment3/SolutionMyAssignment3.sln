@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationGameCenter", "C#WebServiceU3\WebApplicationGameCenter.csproj", "{1E9D8470-24A9-41BF-A08B-7FDA0D63530C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsClient", "C#FormsClientU3\WindowsFormsClient.csproj", "{594EE17A-53D1-4D96-955E-E908D830CAAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E9D8470-24A9-41BF-A08B-7FDA0D63530C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E9D8470-24A9-41BF-A08B-7FDA0D63530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E9D8470-24A9-41BF-A08B-7FDA0D63530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E9D8470-24A9-41BF-A08B-7FDA0D63530C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594EE17A-53D1-4D96-955E-E908D830CAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594EE17A-53D1-4D96-955E-E908D830CAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594EE17A-53D1-4D96-955E-E908D830CAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594EE17A-53D1-4D96-955E-E908D830CAAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF60B643-2C73-4FAB-992B-3E33BC71FB7C}
+	EndGlobalSection
+EndGlobal

@@ -101,7 +101,7 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebApplicationGameCenter\WebApplicationGameCenter.csproj">
+    <ProjectReference Include="..\C#WebServiceU3\WebApplicationGameCenter.csproj">
       <Project>{1E9D8470-24A9-41BF-A08B-7FDA0D63530C}</Project>
       <Name>WebApplicationGameCenter</Name>
     </ProjectReference>
